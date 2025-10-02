@@ -1,2 +1,2 @@
-# Nickname : Tar
-# Favorite food : Rice
+# Nickname : Tim
+# Favorite food : Fried Rice
